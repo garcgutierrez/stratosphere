@@ -11,6 +11,7 @@ class point2D():
         self.Omega = 0
         self.x_adimensional = 0
         self.y_adimensional = 0
+		print('New Point')
         
     def set_XY(self, x, y):
         self.coordinate_x = x
